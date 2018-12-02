@@ -6,4 +6,15 @@ co-kcarm.lnt
 lib-stl.lnt
 options.lnt  -si4 -sp4
 -iC:\Keil_v5\ARM\ARMCC\include
+-iF:\githubrepository\IoV_S32K1xx_Box\board\NXP\devices
+-iF:\githubrepository\IoV_S32K1xx_Box\lib\NXP\S32K1xx_SDKLib\clock\S32K1xx
+-iF:\githubrepository\IoV_S32K1xx_Box\include\NXP\S32K1xx_SDKLib
+-iF:\githubrepository\IoV_S32K1xx_Box\include
+
+-dCPU_S32K144HFT0VLLT
+
++libclass( angle , foreign )
+
+-e46
+//-e734
 
