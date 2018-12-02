@@ -1,0 +1,8 @@
+//  Generic Compilers, -si4 -sp4, lib-mfc.lnt lib-stl.lnt lib-w32.lnt lib-wnt.lnt
+//  Standard lint options
+
+au-ds.lnt
+co.lnt
+lib-mfc.lnt lib-stl.lnt lib-w32.lnt lib-wnt.lnt
+options.lnt  -si4 -sp4
+
