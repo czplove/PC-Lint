@@ -15,6 +15,9 @@ options.lnt  -si4 -sp4
 
 +libclass( angle , foreign )
 
--e46
+//-e46
 //-e734
+//-e96
+//-e10
 
+-wlib(0)
