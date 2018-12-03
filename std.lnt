@@ -13,6 +13,8 @@ options.lnt  -si4 -sp4
 
 -dCPU_S32K144HFT0VLLT
 
+-t4			//-表示tab键占用4个空格长度。
+
 +libclass( angle , foreign )
 
 //-e46
